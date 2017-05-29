@@ -52,6 +52,8 @@
 	<permission cmd="llp" permission_level="1" />
 	<permission cmd="rlp" permission_level="1" />
 	<permission cmd="lkp" permission_level="1" />
+	<permission cmd="cm" permission_level="1" />
+        <permission cmd="dm" permission_level="1" />
         <permission cmd="ban" permission_level="1" />
         <permission cmd="say" permission_level="1" />
         <permission cmd="lt" permission_level="0" />
