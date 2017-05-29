@@ -43,6 +43,15 @@
         <permission cmd="cp" permission_level="0" />
         <permission cmd="whitelist" permission_level="1" />
         <permission cmd="kick" permission_level="1" />
+	<permission cmd="si" permission_level="1" />
+	<permission cmd="tp" permission_level="1" />
+	<permission cmd="tele" permission_level="1" />
+	<permission cmd="telee" permission_level="1" />
+	<permission cmd="removeentity" permission_level="1" />
+	<permission cmd="kill" permission_level="1" />
+	<permission cmd="llp" permission_level="1" />
+	<permission cmd="rlp" permission_level="1" />
+	<permission cmd="lkp" permission_level="1" />
         <permission cmd="ban" permission_level="1" />
         <permission cmd="say" permission_level="1" />
         <permission cmd="lt" permission_level="0" />
