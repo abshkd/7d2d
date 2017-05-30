@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ServerSettings>
-  <property name="AirDropFrequency" value="7"/>
+  <property name="AirDropFrequency" value="72"/>
   <property name="AirDropMarker" value="false"/>
   <property name="BlockDurabilityModifier" value="100"/>
   <property name="BuildCreate" value="false"/>
