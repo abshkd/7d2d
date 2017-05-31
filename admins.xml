@@ -37,7 +37,7 @@
         <!-- <permission cmd="dm" permission_level="0" /> -->
         <!-- <permission cmd="kick" permission_level="1" /> -->
         <!-- <permission cmd="say" permission_level="1000" /> -->
-        <permission cmd="dm" permission_level="0" />
+        <permission cmd="dm" permission_level="1" />
         <permission cmd="mem" permission_level="0" />
         <permission cmd="sounddebug" permission_level="0" />
         <permission cmd="admin" permission_level="0" />
@@ -73,6 +73,16 @@
         <permission cmd="listplayerids" permission_level="1000" />
         <permission cmd="memcl" permission_level="1000" />
         <permission cmd="settempunit" permission_level="1000" />
+        <permission cmd="si" permission_level="1" />
+        <permission cmd="tp" permission_level="1" />
+        <permission cmd="tele" permission_level="1" />
+        <permission cmd="telee" permission_level="1" />
+        <permission cmd="removeentity" permission_level="1" />
+        <permission cmd="kill" permission_level="1" />
+        <permission cmd="llp" permission_level="1" />
+        <permission cmd="rlp" permission_level="1" />
+        <permission cmd="lkp" permission_level="1" />
+        <permission cmd="cm" permission_level="1" />
     </permissions>
 
     <!-- ONLY PUT ITEMS IN WHITELIST IF YOU WANT WHITELIST ONLY ENABLED!!! -->
