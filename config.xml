@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<ServerSettings>
+  <property name="AirDropFrequency" value="72"/>
+  <property name="AirDropMarker" value="false"/>
+  <property name="BlockDurabilityModifier" value="100"/>
+  <property name="BuildCreate" value="false"/>
+  <property name="ControlPanelEnabled" value="true"/>
+  <property name="ControlPanelPassword" value="123444555abcd"/>
+  <property name="ControlPanelPort" value="18080"/>
+  <property name="DayLightLength" value="18"/>
+  <property name="DayNightLength" value="50"/>
+  <property name="DropOnDeath" value="0"/>
+  <property name="DropOnQuit" value="0"/>
+  <property name="EACEnabled" value="true"/>
+  <property name="EnemyDifficulty" value="0"/>
+  <property name="EnemySenseMemory" value="60"/>
+  <property name="EnemySpawnMode" value="3"/>
+  <property name="GameDifficulty" value="5"/>
+  <property name="GameMode" value="GameModeSurvivalMP"/>
+  <property name="GameName" value="qwerty"/>
+  <property name="GameWorld" value="Random Gen"/>
+  <property name="LandClaimDeadZone" value="30"/>
+  <property name="LandClaimDecayMode" value="0"/>
+  <property name="LandClaimExpiryTime" value="3"/>
+  <property name="LandClaimOfflineDurabilityModifier" value="99"/>
+  <property name="LandClaimOnlineDurabilityModifier" value="99"/>
+  <property name="LandClaimSize" value="7"/>
+  <property name="LootAbundance" value="100"/>
+  <property name="LootRespawnDays" value="30"/>
+  <property name="MaxSpawnedAnimals" value="50"/>
+  <property name="MaxSpawnedZombies" value="60"/>
+  <property name="PersistentPlayerProfiles" value="true"/>
+  <property name="PlayerKillingMode" value="3"/>
+  <property name="PlayerSafeZoneHours" value="10"/>
+  <property name="PlayerSafeZoneLevel" value="10"/>
+  <property name="ServerDescription" value="PENIS"/>
+  <property name="ServerIsPublic" value="true"/>
+  <property name="ServerMaxPlayerCount" value="24"/>
+  <property name="ServerName" value="PCGuru.SG - Steamed Rice Server"/>
+  <property name="ServerPassword" value=""/>
+  <property name="ServerPort" value="25000"/>
+  <property name="ServerWebsiteURL" value="https://pcguru.sg"/>
+  <property name="TelnetPassword" value=""/>
+  <property name="TelnetPort" value="18081"/>
+  <property name="ZombiesRun" value="0"/>
+  <property name="TelnetEnabled" value="true"/>
+  <property name="AdminFileName" value="admins.xml"/>
+  <property name="SaveGameFolder" value="/home/steam/instances/BasicServer"/>
+</ServerSettings>
