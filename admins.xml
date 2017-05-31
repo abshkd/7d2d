@@ -54,13 +54,15 @@
 	<permission cmd="lkp" permission_level="1" />
 	<permission cmd="cm" permission_level="1" />
         <permission cmd="dm" permission_level="1" />
+	<permission cmd="lps" permission_level="1" />
+	<permission cmd="lpb" permission_level="1" />
         <permission cmd="ban" permission_level="1" />
         <permission cmd="say" permission_level="1" />
         <permission cmd="lt" permission_level="0" />
         <permission cmd="es" permission_level="0" />
         <permission cmd="go" permission_level="0" />
         <permission cmd="sg" permission_level="0" />
-        <permission cmd="shutdown" permission_level="1" />
+        <permission cmd="shutdown" permission_level="0" />
         <permission cmd="se" permission_level="0" />
         <permission cmd="st" permission_level="1" />
         <permission cmd="aiddebug" permission_level="0" />
