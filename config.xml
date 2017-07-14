@@ -6,7 +6,7 @@
   <property name="ServerPassword" 			value=""/>					<!-- Password to gain entry to the server -->
   <property name="ServerMaxPlayerCount" 	value="32"/>					<!-- Maximum Concurrent Players -->
   <property name="ServerReservedSlots"		value="6"/>					<!-- Out of the MaxPlayerCount this many slots can only be used by players with a specific permission level -->
-  <property name="ServerReservedSlotsPermission"	value="1000"/>		<!-- Required permission level to use reserved slots above -->
+  <property name="ServerReservedSlotsPermission"	value="999"/>		<!-- Required permission level to use reserved slots above -->
   <property name="ServerAdminSlots"			value="4"/>					<!-- This many admins can still join even if the server has reached MaxPlayerCount -->
   <property name="ServerAdminSlotsPermission"	value="100"/>				<!-- Required permission level to use the admin slots above -->
 
