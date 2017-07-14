@@ -29,9 +29,9 @@
   <property name="PlayerSafeZoneLevel"	    value="10" />				<!-- If a player is less or equal this level he will create a safe zone (no enemies) when spawned -->
   <property name="PlayerSafeZoneHours"	    value="1" />				<!-- Hours in world time this safe zone exists -->
 
-  <property name="ControlPanelEnabled"	 	value="false"/>				<!-- Enable/Disable the control panel -->
-  <property name="ControlPanelPort" 		value="8080"/>				<!-- Port of the control panel webpage -->
-  <property name="ControlPanelPassword" 	value="abshkd"/>			<!-- Password to gain entry to the control panel -->
+  <property name="ControlPanelEnabled"	 	value="True"/>				<!-- Enable/Disable the control panel -->
+  <property name="ControlPanelPort" 		value="180080"/>				<!-- Port of the control panel webpage -->
+  <property name="ControlPanelPassword" 	value="123444555abcd"/>			<!-- Password to gain entry to the control panel -->
 
   <property name="TelnetEnabled"	 		value="true"/>				<!-- Enable/Disable the telnet -->
   <property name="TelnetPort" 				value="8081"/>				<!-- Port of the telnet server -->
