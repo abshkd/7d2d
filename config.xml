@@ -1,49 +1,56 @@
 <?xml version="1.0"?>
 <ServerSettings>
-  <property name="AirDropFrequency" value="72"/>
-  <property name="AirDropMarker" value="false"/>
-  <property name="BlockDurabilityModifier" value="100"/>
-  <property name="BuildCreate" value="false"/>
-  <property name="ControlPanelEnabled" value="true"/>
-  <property name="ControlPanelPassword" value="123444555abcd"/>
-  <property name="ControlPanelPort" value="18080"/>
-  <property name="DayLightLength" value="18"/>
-  <property name="DayNightLength" value="50"/>
-  <property name="DropOnDeath" value="0"/>
-  <property name="DropOnQuit" value="0"/>
-  <property name="EACEnabled" value="true"/>
-  <property name="EnemyDifficulty" value="0"/>
-  <property name="EnemySenseMemory" value="60"/>
-  <property name="EnemySpawnMode" value="3"/>
-  <property name="GameDifficulty" value="5"/>
-  <property name="GameMode" value="GameModeSurvivalMP"/>
-  <property name="GameName" value="qwerty"/>
-  <property name="GameWorld" value="Random Gen"/>
-  <property name="LandClaimDeadZone" value="30"/>
-  <property name="LandClaimDecayMode" value="0"/>
-  <property name="LandClaimExpiryTime" value="3"/>
-  <property name="LandClaimOfflineDurabilityModifier" value="99"/>
-  <property name="LandClaimOnlineDurabilityModifier" value="99"/>
-  <property name="LandClaimSize" value="7"/>
-  <property name="LootAbundance" value="100"/>
-  <property name="LootRespawnDays" value="30"/>
-  <property name="MaxSpawnedAnimals" value="50"/>
-  <property name="MaxSpawnedZombies" value="60"/>
-  <property name="PersistentPlayerProfiles" value="true"/>
-  <property name="PlayerKillingMode" value="3"/>
-  <property name="PlayerSafeZoneHours" value="10"/>
-  <property name="PlayerSafeZoneLevel" value="10"/>
-  <property name="ServerDescription" value="PENIS"/>
-  <property name="ServerIsPublic" value="true"/>
-  <property name="ServerMaxPlayerCount" value="24"/>
-  <property name="ServerName" value="PCGuru.SG - Steamed Rice Server"/>
-  <property name="ServerPassword" value=""/>
-  <property name="ServerPort" value="25000"/>
-  <property name="ServerWebsiteURL" value="https://pcguru.sg"/>
-  <property name="TelnetPassword" value=""/>
-  <property name="TelnetPort" value="18081"/>
-  <property name="ZombiesRun" value="0"/>
-  <property name="TelnetEnabled" value="true"/>
-  <property name="AdminFileName" value="admins.xml"/>
-  <property name="SaveGameFolder" value="/home/steam/instances/BasicServer"/>
+  <property name="ServerPort" 				value="25000"/>
+  <property name="ServerIsPublic" 			value="true"/>
+  <property name="ServerName" 				value="PCGURU.SG Kekistan No Raiding|ActiveAdmin"/>
+  <property name="ServerPassword" 			value=""/>					
+  <property name="ServerMaxPlayerCount" 	value="32"/>				
+  <property name="ServerReservedSlots"		value="6"/>			
+  <property name="ServerReservedSlotsPermission"	value="999"/>
+  <property name="ServerAdminSlots"			value="2"/>		
+  <property name="ServerAdminSlotsPermission"	value="500"/>
+  <property name="ServerDescription" 		value="LULZ AND KEK WE ARE ONE!"/>
+  <property name="ServerWebsiteURL" 		value="https://pcuguru.sg"/>
+  <property name="ServerDisabledNetworkProtocols"	value="UNET"/>
+  <property name="GameWorld" 				value="Random Gen"/>
+  <property name="GameName" 				value="Kekistan1"/>
+  <property name="GameDifficulty" 			value="2"/> 
+  <property name="GameMode"					value="GameModeSurvivalMP"/>
+  <property name="ZombiesRun"				value="0" />
+  <property name="BuildCreate"				value="false" />
+  <property name="DayNightLength"			value="60" />
+  <property name="DayLightLength"			value="18" />
+  <property name="PlayerKillingMode"		value="3" />
+  <property name="PersistentPlayerProfiles"	value="false" />
+  <property name="PlayerSafeZoneLevel"	    value="10" />
+  <property name="PlayerSafeZoneHours"	    value="1" />
+  <property name="ControlPanelEnabled"	 	value="false"/>
+  <property name="ControlPanelPort" 		value="18080"/>
+  <property name="ControlPanelPassword" 	value="123444555abcd"/>
+  <property name="TelnetEnabled"	 		value="true"/>
+  <property name="TelnetPort" 				value="18081"/>
+  <property name="TelnetPassword" 			value=""/>
+  <property name="AdminFileName"			value="admins.xml"/>
+  <property name="DropOnDeath"				value="0" />
+  <property name="DropOnQuit"				value="0" /
+  <property name="BloodMoonEnemyCount"		value="12" />
+  <property name="EnemySpawnMode"			value="true" />	
+  <property name="EnemyDifficulty"			value="0" />	
+  <property name="BlockDurabilityModifier" 	value="100" />
+  <property name="LootAbundance" 			value="100" /> 
+  <property name="LootRespawnDays"		 	value="30" />
+  <property name="LandClaimSize" 						value="41"/>
+  <property name="LandClaimDeadZone" 					value="41"/>
+  <property name="LandClaimExpiryTime" 					value="14"/>
+  <property name="LandClaimDecayMode" 					value="2"/>
+  <property name="LandClaimOnlineDurabilityModifier" 	value="0"/>
+  <property name="LandClaimOfflineDurabilityModifier" 	value="0"/>
+  <property name="AirDropFrequency"						value="72"/>   
+  <property name="AirDropMarker"						value="false"/>	
+  <property name="MaxSpawnedZombies"					value="60"/>  
+  <property name="MaxSpawnedAnimals"					value="50"/>
+  <property name="EACEnabled"							value="true"/>
+  <property name="HideCommandExecutionLog"				value="0"/>
+  <property name="MaxUncoveredMapChunksPerPlayer"		value="1048576"/>
+  <property name="BedrollDeadZoneSize"		value="15"/>
 </ServerSettings>
