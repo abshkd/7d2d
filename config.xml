@@ -51,6 +51,6 @@
   <property name="MaxSpawnedAnimals"					value="50"/>
   <property name="EACEnabled"							value="true"/>
   <property name="HideCommandExecutionLog"				value="0"/>
-  <property name="MaxUncoveredMapChunksPerPlayer"		value="1048576"/>
+  <property name="MaxUncoveredMapChunksPerPlayer"		value="131072"/>
   <property name="BedrollDeadZoneSize"		value="15"/>
 </ServerSettings>
