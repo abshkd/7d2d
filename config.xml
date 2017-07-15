@@ -18,7 +18,7 @@
   <property name="GameMode"					value="GameModeSurvivalMP"/>
   <property name="ZombiesRun"				value="0" />
   <property name="BuildCreate"				value="false" />
-  <property name="DayNightLength"			value="60" />
+  <property name="DayNightLength"			value="50" />
   <property name="DayLightLength"			value="18" />
   <property name="PlayerKillingMode"		value="3" />
   <property name="PersistentPlayerProfiles"	value="false" />
