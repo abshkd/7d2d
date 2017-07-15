@@ -85,7 +85,7 @@
 	<permission cmd="saveworld" permission_level="0" />
 	<permission cmd="say" permission_level="1" />
 	<permission cmd="sayplayer" permission_level="1000" />
-	<permission cmd="sc" permission_level="0" /
+	<permission cmd="sc" permission_level="0" />
 	<permission cmd="se" permission_level="1" />
 	<permission cmd="sh" permission_level="1" />
 	<permission cmd="settempunit" permission_level="1000" />
