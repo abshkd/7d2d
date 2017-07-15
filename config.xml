@@ -32,7 +32,7 @@
   <property name="TelnetPassword" 			value=""/>
   <property name="AdminFileName"			value="admins.xml"/>
   <property name="DropOnDeath"				value="0" />
-  <property name="DropOnQuit"				value="0" /
+  <property name="DropOnQuit"				value="0" />
   <property name="BloodMoonEnemyCount"		value="12" />
   <property name="EnemySpawnMode"			value="true" />	
   <property name="EnemyDifficulty"			value="0" />	
